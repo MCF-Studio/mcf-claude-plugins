@@ -1,0 +1,7 @@
+{
+  "name": "godot-workflow",
+  "description": "Godot 4 : tests headless isolés et sans son, règles pour modifier les scènes avec l'éditeur ouvert.",
+  "version": "0.1.0",
+  "author": { "name": "MCF Studio" },
+  "license": "MIT"
+}

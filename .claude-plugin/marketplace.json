@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mcf-studio",
+  "description": "Catalogue communautaire de skills et plugins Claude Code de MCF Studio et de son Discord (Godot, jeux, outils).",
+  "owner": {
+    "name": "MCF Studio"
+  },
+  "plugins": [
+    {
+      "name": "godot-workflow",
+      "description": "Godot 4 : tests headless sans son ni toucher aux données utilisateur, règles pour modifier les scènes avec l'éditeur ouvert.",
+      "author": { "name": "MCF Studio" },
+      "source": "./plugins/godot-workflow",
+      "category": "development"
+    },
+    {
+      "name": "econome-tokens",
+      "description": "Consommer moins de tokens avec Claude Code : contexte, modèles, CLAUDE.md, MCP, sous-agents.",
+      "author": { "name": "MCF Studio" },
+      "source": "./plugins/econome-tokens",
+      "category": "productivity"
+    }
+  ]
+}

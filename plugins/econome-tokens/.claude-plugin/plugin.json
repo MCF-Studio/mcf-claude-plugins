@@ -1,0 +1,7 @@
+{
+  "name": "econome-tokens",
+  "description": "Consommer moins de tokens avec Claude Code.",
+  "version": "0.1.0",
+  "author": { "name": "MCF Studio" },
+  "license": "MIT"
+}
