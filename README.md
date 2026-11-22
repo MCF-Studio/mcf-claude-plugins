@@ -21,6 +21,7 @@ Voir ce qu'un plugin contient avant de l'installer : `claude plugin details godo
 | --- | --- | --- |
 | [`godot-workflow`](plugins/godot-workflow) | Skills `godot-headless-test` (tests Godot 4 sans son, données utilisateur isolées, sortie filtrée) et `godot-editor-scenes` (modifier les scènes avec l'éditeur ouvert sans rien casser) | Développeurs Godot 4 |
 | [`econome-tokens`](plugins/econome-tokens) | Skill `economie-tokens` + [guide complet](docs/guide-economiser-tokens.md) | Tout utilisateur de Claude Code |
+| [`redaction-ste100`](plugins/redaction-ste100) | Skill `ste100` : réponses rédigées selon la norme ASD-STE100 (phrases courtes, voix active, vocabulaire constant), dans la langue de l'utilisateur, sur demande | Rédaction technique, documentation, procédures |
 
 ## C'est quoi, un skill ? un plugin ?
 

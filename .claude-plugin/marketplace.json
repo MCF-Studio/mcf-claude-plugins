@@ -19,6 +19,13 @@
       "author": { "name": "MCF Studio" },
       "source": "./plugins/econome-tokens",
       "category": "productivity"
+    },
+    {
+      "name": "redaction-ste100",
+      "description": "Rédaction selon ASD-STE100 (Simplified Technical English) : réponses claires, phrases courtes, voix active, dans la langue de l'utilisateur. Sur demande uniquement.",
+      "author": { "name": "MCF Studio" },
+      "source": "./plugins/redaction-ste100",
+      "category": "productivity"
     }
   ]
 }
