@@ -1,0 +1,7 @@
+{
+  "name": "redaction-ste100",
+  "description": "Réponses rédigées selon les règles ASD-STE100 (Simplified Technical English), dans la langue de l'utilisateur.",
+  "version": "0.1.0",
+  "author": { "name": "MCF Studio" },
+  "license": "MIT"
+}
