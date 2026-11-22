@@ -8,7 +8,7 @@ MCF Studio et ouvert aux membres du Discord : chacun peut les installer et propo
 Dans Claude Code :
 
 ```
-/plugin marketplace add LeBriCodeur/mcf-claude-plugins
+/plugin marketplace add MCF-Studio/mcf-claude-plugins
 /plugin install godot-workflow@mcf-studio
 ```
 
